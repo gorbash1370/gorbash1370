@@ -1,4 +1,4 @@
-<table width="100%" border="0">
+<table align="center" width="100%" border="0">
   <tr>
     <td align="center" border="0"><img src="https://imgur.com/WbRv9JU.png" height="98"></td>
     <td align="center" width="50%"><h1>Welcome!</h1></td>
@@ -14,11 +14,11 @@
 
 
 <div align="center">
-  <h2>About gorbash1370</h2>
+  <h2>About</h2>
 </div>
 
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td align="center" width="100%">    
 
@@ -36,23 +36,7 @@
 </tr>
 </table>
 
-
-<p align="center">
-
-    Addiction | Learning
-
-    Style | Foundational knowledge. Learn-by-Do
-    
-    Self-taught | HumbleBundles, ChatGPT, Copilot
-    
-    Interests | AI, Automation, CyberSec, Networking, (the power of) Code
-    
-    Podcasts | Security Now, Unsupervised Learning, Darknet Diaries
-    
-    Direction | Career switch into CyberSecurity, Networking and Network Security
-
-</p>
-
+<!--BADGES INTERESTS-->
 <div align="center" style="padding: 5px;">
   <img src="https://imgur.com/R3t1AL6.png" alt="badge security" height="50" style="margin-right: 5px;">
   <img src="https://imgur.com/opTvfNF.png" alt="badge ai" height="50" style="margin-right: 5px;">
@@ -79,7 +63,7 @@
 <img src="https://imgur.com/S9YZV1D.gif" height="3" width="75%">
 </div>
 
-
+<!--REPOS-->
 <div align="center">
   <h2>My Repos</h2>
 </div>
@@ -95,6 +79,8 @@
     Hopefully over time my work will attest to an increase in sophistication :wink:
 </div>
 
+
+<!--BADGES INTERESTS-->
 <div align="center">
   <h2>Projects</h2>
 
