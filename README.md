@@ -1,20 +1,10 @@
-<div style="display: flex; align-items: center;">
-  <!-- Image aligned to the left -->
-  <span style="display: inline;">
-    <img src="https://imgur.com/WbRv9JU.png" height="98">
-  </span>
-
-  <!-- Heading centered -->
-  <div style="text-align: center; flex-grow: 1;">
-    <h1>Welcome!</h1>
-  </div>
-
-  <!-- Image aligned to the center -->
-  <span style="display: inline;">
-    <img src="https://imgur.com/Q5TdkMK.gif" height="150">
-  </span>
-</div>
-
+<table>
+  <tr>
+    <td align="center"><img src="https://imgur.com/WbRv9JU.png" height="98"></td>
+    <td align="center" width="50%"><h1>Welcome!</h1></td>
+    <td align="center"><img src="https://imgur.com/Q5TdkMK.gif" height="150"></td>
+  </tr>
+</table>
 
 
 <!--📏LINE-->
@@ -23,13 +13,32 @@
 </div>
 
 
-
 <div align="center">
   <h2>About gorbash1370</h2>
 </div>
 
-<div align="center">
+
+<table>
+<tr>
+<td align="center">    
+
+    Addiction | Learning
+
+    Style | Foundational knowledge. Learn-by-Do
     
+    Self-taught | HumbleBundles, ChatGPT, Copilot
+    
+    Interests | AI, Automation, CyberSec, Networking, (the power of) Code
+    
+    Podcasts | Security Now, Unsupervised Learning, Darknet Diaries
+    
+    Direction | Career switch into CyberSecurity, Networking and Network Security</td>
+</tr>
+</table>
+
+
+<p align="center">
+
     Addiction | Learning
 
     Style | Foundational knowledge. Learn-by-Do
@@ -42,7 +51,7 @@
     
     Direction | Career switch into CyberSecurity, Networking and Network Security
 
-</div>
+</p>
 
 <div align="center" style="padding: 5px;">
   <img src="https://imgur.com/R3t1AL6.png" alt="badge security" height="50" style="margin-right: 5px;">
