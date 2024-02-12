@@ -1,6 +1,6 @@
 <!--🔝BANNER-->
 <img align="left" src="https://imgur.com/9ahlTks.png" height="98" width="21%" style="display:inline;"><img align="right" src="https://imgur.com/Q5TdkMK.gif" width="15%" style="display:inline;">
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Welcome!    </h1>
 
 <!--📏LINE-->
 <div align="center">
@@ -28,8 +28,6 @@
 **Podcasts** | Security Now, Unsupervised Learning, Darknet Diaries
 
 **Direction** | Career switch into CyberSecurity, Networking and Network Security
-
-  
 
 
 <!--✨BADGES INTERESTS-->
@@ -96,8 +94,8 @@ Coming Soon
   <img src="https://imgur.com/S9YZV1D.gif" height="3" width="75%">
 </div>
 
-<!--➡-->
-<img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
+<!-- ➡-->
+<!-- <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"> -->
 
 <!-- 🤓NOOB-->
 <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
