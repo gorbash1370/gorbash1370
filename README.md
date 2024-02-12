@@ -1,6 +1,6 @@
 <!--🔝BANNER-->
 <img align="left" src="https://imgur.com/9ahlTks.png" height="98" width="21%" style="display:inline;"><img align="right" src="https://imgur.com/Q5TdkMK.gif" width="15%" style="display:inline;">
-<h1 align="center">Welcome!    </h1>
+<h1 align="center">Welcome! 🐲 👋 🐱‍👤 </h1>
 
 <!--📏LINE-->
 <div align="center">
@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h2>About</h2>
+  <h2>About <img src="emojis/baby_dragon2.gif" width="25" height="25"></h2> 
 </div>
 
 <!--➡-->
@@ -17,17 +17,17 @@
 
 <div align="center">
 
-**Addiction** | Learning
+**Addiction** <img src="emojis/dragon_egg.gif" width="25" height="25"> | Learning 
 
-**Style** | Foundational knowledge. Learn-by-Do
+**Style** <img src="emojis/catboogie0.gif" width="25" height="25"> | Foundational knowledge. Learn-By-Do
 
-**Self-taught** | HumbleBundles, ChatGPT, Copilot
+**Self-taught** <img src="emojis/nerd_cat.png" width="25" height="25"> | HumbleBundles, ChatGPT, Copilot
 
-**Interests** | AI, Automation, CyberSec, Networking, (the power of) Code
+**Podcasts** <img src="emojis/catjam.gif" width="25" height="25"> | Security Now, Unsupervised Learning, Darknet Diaries  
 
-**Podcasts** | Security Now, Unsupervised Learning, Darknet Diaries
+**Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | AI, Automation, CyberSec, Networking, (the power of) Code
 
-**Direction** | Career switch into CyberSecurity, Networking and Network Security
+**Direction** <img src="emojis/flying_dragon.gif" width="25" height="25">| Career switch into CyberSecurity, Networking and Network Security
 
 
 <!--✨BADGES INTERESTS-->
@@ -59,7 +59,7 @@
 </div>
 
 <!--➡-->
-<img align="left" src="https://imgur.com/z1fpErF.png" height="100" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="100" width="6%" style="display:inline;">
+<img align="left" src="https://imgur.com/z1fpErF.png" alt="line" height="100" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="100" width="6%" style="display:inline;">
 
 <!--REPOS-->
 <div align="center">
@@ -68,11 +68,11 @@
 
 <div align="center">
 
-Hobby-coding for about 8 months at the start of 2024, my GitHub is therefore a "Learning in Public" endeavour, hosting my practice projects.   
+Hobby-coding for only about 6 months at the start of 2024, my GitHub is a "Learning in Public" endeavour, hosting my practice projects.   
 
-If anyone happens to find my small scripts useful then :muscle: :blush:
+If anyone happens to find my small scripts useful then <img src="emojis/muscle-flexing.gif" width="55" height="55">
 
-Hopefully over time my work will attest to an increase in sophistication :wink:
+Hopefully over time my work will attest to an increase in sophistication!
 
 <!--➡-->
 <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
@@ -84,7 +84,9 @@ Hopefully over time my work will attest to an increase in sophistication :wink:
 
 <div align="center">
 
-Coming Soon
+Coming Soon! 
+
+<img src="emojis/cattyping.gif" width="75" height="75">
 
 </div>
 
@@ -100,7 +102,7 @@ Coming Soon
 <!-- 🤓NOOB-->
 <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
 <div align="center">
-  <h2>Super n00b Stats</h2>
+  <h2>Super n00b Stats <img src="emojis/dragon_jam.gif" width="35" height="35"></h2>
 </div>
 
 <div align="center">
@@ -115,7 +117,7 @@ Coming Soon
 
 <!-- 👋COLLAB-->
 <div align="center">
-  <h2>Collab</h2>
+  <h2>Collab <img src="emojis/meow_party.gif" width="25" height="25"></h2>
 
 <!--➡-->
 <img align="left" src="https://imgur.com/z1fpErF.png" alt="buffer left" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" alt="buffer right" height="300" width="6%" style="display:inline;">
@@ -128,8 +130,7 @@ I'm really passionate about the Open Source philosophy.
 I'm so grateful that the movement exists and hopefully I'll soon be able
 contribute to the community.
 
-This profile is deliberately explicit about my experience and stage in the learning journey: if anyone has a project I could work on, wants to collab or is interested in mentoring, 
-please do reach out!
+This profile is deliberately explicit about my experience and stage in the learning journey: if anyone has a project I could work on, wants to collab or is interested in mentoring, please do reach out! <img src="emojis/meow_plz.png" width="25" height="25">
 
 <!-- 📫MAIL -->
 <img align="center" src="https://imgur.com/OQHuS69.png" height="100%" width="25%" alt ="Contact">
@@ -140,14 +141,15 @@ please do reach out!
 
 <!--🙏-->
 <div align="center">
-  <h3>Credits & Thanks</h3>
+  <h3>Credits & Thanks <img src="emojis/keanu_thanks(1).gif" width="25" height="25"> </h3>
 </div>
 
-**Widgets Used**
+**Widgets & Resources Used**
 
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 [MikeCodesDotNET/ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)  
-[qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator)
+[qkrdmstlr3/techstack-generator](https://github.com/qkrdmstlr3/techstack-generator)  
+[Slackmojis](https://slackmojis.com/emojis/)
 
 **Profile Inspiration**
 
@@ -169,6 +171,11 @@ please do reach out!
 <br></br>
 
 Who doesn't love a cat-on-a-roomba.  
-Thanks for stopping by!
+Thanks for stopping by! <img src="emojis/meow_rave.gif" width="25" height="25">
 </div>
 
+<div align="right">
+
+[*Designed with care by: gorbash1370*... ⬆](https://github.com/gorbash1370/gorbash1370)
+
+</div>
