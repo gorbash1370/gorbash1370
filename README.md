@@ -25,7 +25,7 @@
 
 **Podcasts** <img src="emojis/catjam.gif" width="25" height="25"> | Security Now, Unsupervised Learning, Darknet Diaries  
 
-**Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | AI, Automation, CyberSec, Networking, (the power of) Code
+**Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | AI, Automation, CyberSec, Networking, (the power of) Code, AI Art
 
 **Direction** <img src="emojis/flying_dragon.gif" width="25" height="25">| Career switch into CyberSecurity, Networking and Network Security
 
@@ -100,7 +100,8 @@ Coming Soon!
 <!-- <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"> -->
 
 <!-- 🤓NOOB-->
-<img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
+<!-- <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"> -->
+
 <div align="center">
   <h2>Super n00b Stats <img src="emojis/dragon_jam.gif" width="35" height="35"></h2>
 </div>
@@ -130,7 +131,9 @@ I'm really passionate about the Open Source philosophy.
 I'm so grateful that the movement exists and hopefully I'll soon be able
 contribute to the community.
 
-This profile is deliberately explicit about my experience and stage in the learning journey: if anyone has a project I could work on, wants to collab or is interested in mentoring, please do reach out! <img src="emojis/meow_plz.png" width="25" height="25">
+This profile is deliberately explicit about my experience and stage in the learning journey: if anyone has a project I could work on, wants to collab or is interested in mentoring, please do reach out! <img src="emojis/meow_plz.png" width="25" height="25">  
+
+Constructive criticism on my work is always welcome.
 
 <!-- 📫MAIL -->
 <img align="center" src="https://imgur.com/OQHuS69.png" height="100%" width="25%" alt ="Contact">
