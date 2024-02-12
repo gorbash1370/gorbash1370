@@ -1,8 +1,8 @@
-<table>
+<table width="100%" border="0">
   <tr>
-    <td align="center"><img src="https://imgur.com/WbRv9JU.png" height="98"></td>
+    <td align="center" border="0"><img src="https://imgur.com/WbRv9JU.png" height="98"></td>
     <td align="center" width="50%"><h1>Welcome!</h1></td>
-    <td align="center"><img src="https://imgur.com/Q5TdkMK.gif" height="150"></td>
+    <td align="center" border="0"><img src="https://imgur.com/Q5TdkMK.gif" height="150"></td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td align="center">    
+<td align="center" width="100%">    
 
     Addiction | Learning
 
