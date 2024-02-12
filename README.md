@@ -68,8 +68,6 @@
   <h2>My Repos</h2>
 </div>
 
-
-
 <div align="center">
 
 Hobby-coding for about 8 months at the start of 2024, my GitHub is therefore a "Learning in Public" endeavour, hosting my practice projects.   
@@ -77,9 +75,6 @@ Hobby-coding for about 8 months at the start of 2024, my GitHub is therefore a "
 If anyone happens to find my small scripts useful then :muscle: :blush:
 
 Hopefully over time my work will attest to an increase in sophistication :wink:
-
-<br></br>  
-
 
 <!--➡-->
 <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
@@ -111,7 +106,7 @@ Coming Soon
 </div>
 
 <div align="center">
-    <img alt="gorbash1370's GitHub stats" img src="https://github-readme-stats.vercel.app/api?username=gorbash1370&show_icons=true&theme=midnight-purple&border_color=BF40BF">
+  <img alt="gorbash1370's GitHub stats" img src="https://github-readme-stats.vercel.app/api?username=gorbash1370&show_icons=true&theme=midnight-purple&border_color=BF40BF" style="display:inline;">
 </div>
 
 
@@ -125,7 +120,7 @@ Coming Soon
   <h2>Collab</h2>
 
 <!--➡-->
-<img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
+<img align="left" src="https://imgur.com/z1fpErF.png" alt="buffer left" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" alt="buffer right" height="300" width="6%" style="display:inline;">
 
 <div align="center">
 
@@ -135,8 +130,7 @@ I'm really passionate about the Open Source philosophy.
 I'm so grateful that the movement exists and hopefully I'll soon be able
 contribute to the community.
 
-This profile is deliberately explicit about my experience and stage in the learning journey:
-if anyone has a project I could work on, wants to collab or is interested in mentoring, 
+This profile is deliberately explicit about my experience and stage in the learning journey: if anyone has a project I could work on, wants to collab or is interested in mentoring, 
 please do reach out!
 
 <!-- 📫MAIL -->
@@ -144,7 +138,7 @@ please do reach out!
 </div>
 
 <!--📏LINE-->
-<div align="center"><img src="https://imgur.com/S9YZV1D.gif" height="3" width="75%"> </div>
+<div align="center"><img src="https://imgur.com/S9YZV1D.gif" alt="line" height="3" width="75%"> </div>
 
 <!--🙏-->
 <div align="center">
@@ -166,16 +160,17 @@ please do reach out!
 
 <!--📏LINE-->
 <div align="center">
-<img src="https://imgur.com/S9YZV1D.gif" height="4" width="100%">
+<img src="https://imgur.com/S9YZV1D.gif" alt="line" height="4" width="100%">
 </div>
 <br>
 
 <!--🐱‍🐉-->
 <div align="center">
-Erm, and 'cos why not?...
 
-<img src="https://imgur.com/LhiFkLt.gif" alt="gif cat roomba why not" height="100"/>
+<img align="center" src="https://imgur.com/LhiFkLt.gif" alt="gif cat roomba why not" height="100">
+<br></br>
 
 Who doesn't love a cat-on-a-roomba.  
 Thanks for stopping by!
 </div>
+
