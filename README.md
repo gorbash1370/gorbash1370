@@ -2,6 +2,8 @@
 <img align="left" src="https://imgur.com/9ahlTks.png" height="98" width="21%" style="display:inline;"><img align="right" src="https://imgur.com/Q5TdkMK.gif" width="15%" style="display:inline;">
 <h1 align="center">Welcome! 🐲 👋 🐱‍👤 </h1>
 
+[_Page not displaying correctly? View the ~~boring~~ plain version here_](https://github.com/gorbash1370/gorbash1370/boring_README.md)
+
 <!--📏LINE-->
 <div align="center">
 <img src="https://imgur.com/S9YZV1D.gif" height="4" width="100%">
@@ -23,11 +25,11 @@
 
 **Self-taught** <img src="emojis/nerd_cat.png" width="25" height="25"> | HumbleBundles, ChatGPT, Copilot
 
-**Podcasts** <img src="emojis/catjam.gif" width="25" height="25"> | Security Now, Unsupervised Learning, Darknet Diaries  
+**Tech Podcasts** <img src="emojis/catjam.gif" width="25" height="25"> | [Security Now](https://twit.tv/shows/security-now), [Unsupervised Learning](https://github.com/danielmiessler), [Darknet Diaries](https://darknetdiaries.com/)  
 
 **Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | AI, Automation, CyberSec, Networking, (the power of) Code, AI Art
 
-**Direction** <img src="emojis/flying_dragon.gif" width="25" height="25">| Career switch into CyberSecurity, Networking and Network Security
+**Direction** <img src="emojis/flying_dragon.gif" width="25" height="25">| Career switch into CyberSecurity, Networking & Network Security
 
 
 <!--✨BADGES INTERESTS-->
@@ -125,15 +127,11 @@ Coming Soon!
 
 <div align="center">
 
-Having benefitted greatly from the generous sharing of skills and output by others,
-I'm really passionate about the Open Source philosophy.
-
-I'm so grateful that the movement exists and hopefully I'll soon be able
-contribute to the community.
+Having benefited greatly from the generous sharing by others of their skills and output, I'm really passionate about the Open Source philosophy and hope to contribute meaningfully to the community. 
 
 This profile is deliberately explicit about my experience and stage in the learning journey: if anyone has a project I could work on, wants to collab or is interested in mentoring, please do reach out! <img src="emojis/meow_plz.png" width="25" height="25">  
 
-Constructive criticism on my work is always welcome.
+Feedback and constructive criticism on my work is always welcome.
 
 <!-- 📫MAIL -->
 <img align="center" src="https://imgur.com/OQHuS69.png" height="100%" width="25%" alt ="Contact">
@@ -147,7 +145,7 @@ Constructive criticism on my work is always welcome.
   <h3>Credits & Thanks <img src="emojis/keanu_thanks(1).gif" width="25" height="25"> </h3>
 </div>
 
-**Widgets & Resources Used**
+**Widgets & Resources Used In This Profile**
 
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
 [MikeCodesDotNET/ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges)  
@@ -173,12 +171,13 @@ Constructive criticism on my work is always welcome.
 <img align="center" src="https://imgur.com/LhiFkLt.gif" alt="gif cat roomba why not" height="100">
 <br></br>
 
-Who doesn't love a cat-on-a-roomba.  
+Who doesn't love a cat-on-a-roomba?!  
 Thanks for stopping by! <img src="emojis/meow_rave.gif" width="25" height="25">
 </div>
 
 <div align="right">
 
-[*Designed with care by: gorbash1370*... ⬆](https://github.com/gorbash1370/gorbash1370)
+[*Designed with care by: gorbash1370*... ⬆](https://github.com/gorbash1370/gorbash1370)  
+Last updated: 2024-02-13
 
 </div>
