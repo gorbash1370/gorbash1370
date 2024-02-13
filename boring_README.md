@@ -6,8 +6,8 @@
 **Addiction**  | Learning  
 **Style** | Foundational knowledge. Learn-By-Do  
 **Self-taught** | HumbleBundles, ChatGPT, Copilot  
-**Podcasts** | Security Now, Unsupervised Learning, Darknet Diaries  
-**Interests** | CyberSec, Networking, (the power of) Code, Automation, AI (especially, art & general manipulation!)  
+**Tech Podcasts** | Security Now, Unsupervised Learning, Darknet Diaries  
+**Interests** | CyberSec, Networking, (the power of) Code, Automation, AI (especially art & general manipulation!)  
 **Direction**  | Career switch into CyberSecurity, Networking & Network Security  
 
 

@@ -27,7 +27,7 @@
 
 **Tech Podcasts** <img src="emojis/catjam.gif" width="25" height="25"> | [Security Now](https://twit.tv/shows/security-now), [Unsupervised Learning](https://github.com/danielmiessler), [Darknet Diaries](https://darknetdiaries.com/)  
 
-**Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | CyberSec, Networking, (the power of) Code, Automation, AI (especially, art & general manipulation!)  
+**Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | CyberSec, Networking, (the power of) Code, Automation, AI (especially art & general manipulation!)  
 
 **Direction** <img src="emojis/flying_dragon.gif" width="25" height="25">| Career switch into CyberSecurity, Networking & Network Security
 
