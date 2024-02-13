@@ -2,7 +2,7 @@
 <img align="left" src="https://imgur.com/9ahlTks.png" height="98" width="21%" style="display:inline;"><img align="right" src="https://imgur.com/Q5TdkMK.gif" width="15%" style="display:inline;">
 <h1 align="center">Welcome! 🐲 👋 🐱‍👤 </h1>
 
-[_Page not displaying correctly? View the ~~boring~~ plain version here_](https://github.com/gorbash1370/gorbash1370/boring_README.md)
+[_Page not displaying correctly? Here's the ~~boring~~ plain version_](https://github.com/gorbash1370/gorbash1370/blob/main/boring_README.md)
 
 <!--📏LINE-->
 <div align="center">
@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <h2>About <img src="emojis/baby_dragon2.gif" width="25" height="25"></h2> 
+  <h2>About gorbash1370<img src="emojis/baby_dragon2.gif" width="25" height="25"></h2> 
 </div>
 
 <!--➡-->
@@ -27,7 +27,7 @@
 
 **Tech Podcasts** <img src="emojis/catjam.gif" width="25" height="25"> | [Security Now](https://twit.tv/shows/security-now), [Unsupervised Learning](https://github.com/danielmiessler), [Darknet Diaries](https://darknetdiaries.com/)  
 
-**Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | AI, Automation, CyberSec, Networking, (the power of) Code, AI Art
+**Interests** <img src="emojis/interesting_intrigued.gif" width="25" height="25"> | CyberSec, Networking, (the power of) Code, Automation, AI (especially, art & general manipulation!)  
 
 **Direction** <img src="emojis/flying_dragon.gif" width="25" height="25">| Career switch into CyberSecurity, Networking & Network Security
 
@@ -177,7 +177,7 @@ Thanks for stopping by! <img src="emojis/meow_rave.gif" width="25" height="25">
 
 <div align="right">
 
-[*Designed with care by: gorbash1370*... ⬆](https://github.com/gorbash1370/gorbash1370)  
+[*Designed with care by: gorbash1370*... ⬆](https://github.com/gorbash1370)  
 Last updated: 2024-02-13
 
 </div>

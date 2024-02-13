@@ -1,13 +1,13 @@
 # Welcome! 👋
 
 
-# About ![Dragon Egg](emojis/dragon_egg.gif)
+# About gorbash1370 ![Dragon Egg](emojis/dragon_egg.gif)
 
 **Addiction**  | Learning  
 **Style** | Foundational knowledge. Learn-By-Do  
 **Self-taught** | HumbleBundles, ChatGPT, Copilot  
 **Podcasts** | Security Now, Unsupervised Learning, Darknet Diaries  
-**Interests** | AI, Automation, CyberSec, Networking, (the power of) Code, AI Art  
+**Interests** | CyberSec, Networking, (the power of) Code, Automation, AI (especially, art & general manipulation!)  
 **Direction**  | Career switch into CyberSecurity, Networking & Network Security  
 
 
@@ -64,5 +64,5 @@ And finally... who doesn't love a cat-on-a-roomba?!
 ![Cat on a Roomba](https://imgur.com/LhiFkLt.gif)  
 Thanks for stopping by!
 
-*Designed with care by: gorbash1370... ⬆* [gorbash1370](https://github.com/gorbash1370/gorbash1370)  
+*Designed with care by: gorbash1370... ⬆* [gorbash1370](https://github.com/gorbash1370)  
 Last updated: 2024-02-13
