@@ -15,7 +15,7 @@
 </div>
 
 <!--➡-->
-<img align="left" src="https://imgur.com/z1fpErF.png" height="500" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="500" width="6%" style="display:inline;">
+<img align="left" src="https://imgur.com/7gVKlp7.png" height="500" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/7gVKlp7.png" height="500" width="6%" style="display:inline;">
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 </div>
 
 <!--➡-->
-<img align="left" src="https://imgur.com/z1fpErF.png" alt="line" height="100" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="100" width="6%" style="display:inline;">
+<img align="left" src="https://imgur.com/7gVKlp7.png" alt="line" height="100" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/7gVKlp7.png" height="100" width="6%" style="display:inline;">
 
 <!--REPOS-->
 <div align="center">
@@ -77,7 +77,7 @@ If anyone happens to find my small scripts useful then <img src="emojis/muscle-f
 Hopefully over time my work will attest to an increase in sophistication!
 
 <!--➡-->
-<img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;">
+<img align="left" src="https://imgur.com/7gVKlp7.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/7gVKlp7.png" height="300" width="6%" style="display:inline;">
 
 <!--BADGES INTERESTS-->
 <div align="center">
@@ -99,10 +99,10 @@ Coming Soon!
 </div>
 
 <!-- ➡-->
-<!-- <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"> -->
+<!-- <img align="left" src="https://imgur.com/7gVKlp7.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/7gVKlp7.png" height="300" width="6%" style="display:inline;"> -->
 
 <!-- 🤓NOOB-->
-<!-- <img align="left" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" height="300" width="6%" style="display:inline;"> -->
+<!-- <img align="left" src="https://imgur.com/7gVKlp7.png" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/7gVKlp7.png" height="300" width="6%" style="display:inline;"> -->
 
 <div align="center">
   <h2>Super n00b Stats <img src="emojis/dragon_jam.gif" width="35" height="35"></h2>
@@ -123,7 +123,7 @@ Coming Soon!
   <h2>Collab <img src="emojis/meow_party.gif" width="25" height="25"></h2>
 
 <!--➡-->
-<img align="left" src="https://imgur.com/z1fpErF.png" alt="buffer left" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/z1fpErF.png" alt="buffer right" height="300" width="6%" style="display:inline;">
+<img align="left" src="https://imgur.com/7gVKlp7.png" alt="buffer left" height="300" width="6%" style="display:inline;"><img align="right" src="https://imgur.com/7gVKlp7.png" alt="buffer right" height="300" width="6%" style="display:inline;">
 
 <div align="center">
 
