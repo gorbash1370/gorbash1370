@@ -29,7 +29,11 @@ Hopefully over time my work will attest to an increase in sophistication!
 
 # Projects
 
-Coming Soon! 
+[whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper) | A simple but feature-rich implementation of [OpenAIs Whisper](https://github.com/openai/whisper) transcription model. My first published coding project!
+
+_More Coming Soon!_ 
+
+If you do happen to have reeeeeally enjoyed my work then what I would most appreciate is a pat on the back, but, [Contributions to the Caffine Fund](https://www.buymeacoffee.com/gorbash1370) are always welcome too.
 
 # Collab
 
