@@ -21,15 +21,15 @@
 
 # My Repos
 
-Hobby-coding for only about 6 months at the start of 2024, my GitHub is a "Learning in Public" endeavour, hosting my practice projects.   
+Hobby-coding for only about 6 months at the start of 2024, my GitHub is a "Learning in Public" endeavour, hosting my practice projects. On the plus side, my code should be accessible for other learners and fairly simple to scrutinise!     
 
-If anyone happens to find my small scripts useful, great!
+If anyone happens to find my small scripts useful, great!  
 
 Hopefully over time my work will attest to an increase in sophistication!
 
 # Projects
 
-[whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper) | A simple but feature-rich implementation of [OpenAIs Whisper](https://github.com/openai/whisper) transcription model. My first published coding project!
+[whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper) | A simple but feature-rich implementation of [OpenAI's Whisper](https://github.com/openai/whisper) transcription model. My first published coding project!
 
 _More Coming Soon!_ 
 
