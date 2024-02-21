@@ -29,7 +29,8 @@ Hopefully over time my work will attest to an increase in sophistication!
 
 # Projects
 
-[whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper) | A simple but feature-rich implementation of [OpenAI's Whisper](https://github.com/openai/whisper) transcription model. My first published coding project!
+[whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper) | A simple but feature-rich implementation of [OpenAI's Whisper](https://github.com/openai/whisper) transcription model. My first published coding project!  
+[rename_packt_vids](https://github.com/gorbash1370/rename_packt_vids) | Simple, niche script that renames Packt course video files (format `video1_1`) according to their individual Series/Module and Episode titles. Feeds in nicely to [whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper).
 
 _More Coming Soon!_ 
 
