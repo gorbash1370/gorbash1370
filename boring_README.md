@@ -5,8 +5,8 @@
 
 **Addiction**  | Learning  
 **Style** | Foundational knowledge. Learn-By-Do  
-**Self-taught** | HumbleBundles, ChatGPT, Copilot  
-**Tech Podcasts** | Security Now, Unsupervised Learning, Darknet Diaries  
+**Self-taught** | [Humble Book Bundles](https://www.humblebundle.com/books), ChatGPT, Copilot  
+**Tech Podcasts** | [Security Now](https://twit.tv/shows/security-now), [Unsupervised Learning](https://github.com/danielmiessler), [Darknet Diaries](https://darknetdiaries.com/)  
 **Interests** | CyberSec, Networking, (the power of) Code, Automation, AI (especially art & general manipulation!)  
 **Direction**  | Career switch into CyberSecurity, Networking & Network Security  
 
@@ -29,12 +29,15 @@ Hopefully over time my work will attest to an increase in sophistication!
 
 # Projects
 
-[whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper) | A simple but feature-rich implementation of [OpenAI's Whisper](https://github.com/openai/whisper) transcription model. My first published coding project!  
-[rename_packt_vids](https://github.com/gorbash1370/rename_packt_vids) | Simple, niche script that renames Packt course video files (format `video1_1`) according to their individual Series/Module and Episode titles. Feeds in nicely to [whisper_wrapper](https://github.com/gorbash1370/whisper_wrapper).
+[whisper-wrapper](https://github.com/gorbash1370/whisper_wrapper) | A simple but feature-rich implementation of [OpenAI's Whisper](https://github.com/openai/whisper) transcription model. My first published coding project!   
+
+[rename-packt-vids](https://github.com/gorbash1370/rename_packt_vids) | Simple, niche script that renames Packt course video files (format `video1_1`) according to their individual Series/Module and Episode titles. Feeds in nicely to [whisper-wrapper](https://github.com/gorbash1370/whisper_wrapper). 
+
+[humble-bundle-book-info](https://github.com/gorbash1370/humble-bundle-book-info) | Script does a little web-scraping via Google Books API & Bing Search API to automate researching individual titles in Humble Book Bundles, just using the HB webpage url. All the gathered information is output to nicely formatted text files. See [/HumbleBundleBooks](https://github.com/gorbash1370/humble-bundle-book-info/tree/main/HumbleBundleBooks) for sample outputs.
 
 _More Coming Soon!_ 
 
-If you do happen to have reeeeeally enjoyed my work then what I would most appreciate is a pat on the back, but, [Contributions to the Caffine Fund](https://www.buymeacoffee.com/gorbash1370) are always welcome too.
+If you do happen to have reeeeeally enjoyed my work then what I would most appreciate is a pat on the back, but, [Contributions to the Caffine Fund](https://www.buymeacoffee.com/gorbash1370) ☕ are always welcome too.
 
 # Collab
 
