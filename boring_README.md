@@ -35,6 +35,8 @@ Hopefully over time my work will attest to an increase in sophistication!
 
 [humble-bundle-book-info](https://github.com/gorbash1370/humble-bundle-book-info) | Script does a little web-scraping via Google Books API & Bing Search API to automate researching individual titles in Humble Book Bundles, just using the HB webpage url. All the gathered information is output to nicely formatted text files. See [/HumbleBundleBooks](https://github.com/gorbash1370/humble-bundle-book-info/tree/main/HumbleBundleBooks) for sample outputs.
 
+[security-now-files](https://github.com/gorbash1370/security-now-files) | Automated fetch of transcripts & shownotes for the fantastic [Security Now](https://twit.tv/shows/security-now) podcast. Includes options for downloading just the latest episode, a specific range of episodes or the whole back-catalogue (in server-respectful fashion, of course!) and the ability to select target file formats (pdf, txt or htm).
+
 _More Coming Soon!_ 
 
 If you do happen to have reeeeeally enjoyed my work then what I would most appreciate is a pat on the back, but, [Contributions to the Caffine Fund](https://www.buymeacoffee.com/gorbash1370) ☕ are always welcome too.
